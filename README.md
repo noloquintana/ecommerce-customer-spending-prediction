@@ -127,7 +127,7 @@ El objetivo fue demostrar la correcta implementación de un **pipeline de Machin
 
 **Manuel Quintana**  
 Ingeniero Civil Industrial  
-Estudiante de Ciencia de Datos
+Ciencia de Datos
 
 # English
 
@@ -257,5 +257,5 @@ The objective was to demonstrate the correct implementation of a **supervised ma
 ## 👤 Author
 
 **Manuel Quintana**  
-Industrial Civil Engineer  
-Data Science Student
+Industrial Engineer  
+Data Science 
